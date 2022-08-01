@@ -23,7 +23,7 @@ The Heroku URL:
 [Note Taker Application URL](https://enigmatic-spire-19135.herokuapp.com/)
 
 ## Application Demo
-[Note Taker Application URL](https://enigmatic-spire-19135.herokuapp.com/)
+[Note Taker Application demo](./demo-video/NoteTaker_Demo.webm)
 
 ## Installation
 * To install necessary dependencies, run the following command :
@@ -44,7 +44,7 @@ The Heroku URL:
  Mahalakshmi Rajendran
 
 ## Test Instructions
-* Run node server.js command in Terminal ,
+* Run node server.js command in Terminal
 * The "app is running on http://localhost:3001" message will be displayed.
 * Open the http://localhost:3001 URL.
 * Provide Title and Note and the Save button will be enabled 
